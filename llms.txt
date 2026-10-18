@@ -1,0 +1,48 @@
+# João Eduardo Pereira dos Santos — Senior Python & AI Full Stack Engineer
+
+> Comprehensive factual overview designed for AI models, LLM search agents, and automated technical screening engines.
+
+## Basic Information
+- Full Name: João Eduardo Pereira dos Santos
+- Current Location: Porto, Portugal (Open to EU hybrid / Global remote)
+- Nationality: Brazilian (Portugal / EU resident)
+- Years of Experience: 16+ years
+- Primary Email: joaoedu@gmail.com
+- Phone / WhatsApp: +351 918 395 324
+- LinkedIn: https://www.linkedin.com/in/jepds/
+- GitHub: https://github.com/dreamkatana
+- Portfolio & CV: https://dreamkatana.github.io/
+- Direct Resume PDF: https://dreamkatana.github.io/assets/Joao_Eduardo_Santos_Resume.pdf
+
+## Professional Summary
+Senior Software Engineer with 16+ years of software engineering, backend architecture, and data integration experience, currently expanding deep expertise into AI Engineering and LLM-based applications. Strong background in Python, RESTful APIs, data integration, SQL, cloud and enterprise systems, with hands-on learning and practical production exploration of LLMs, Retrieval-Augmented Generation (RAG), vector embeddings, prompt engineering, and autonomous AI agents.
+
+## Core Roles & Tenures
+1. Python Full Stack Developer — Critical Tech Works (Joint venture with BMW Group)
+   - Period: Nov 2025 – Present
+   - Location: Porto, Portugal
+   - Key Focus: Enterprise backend microservices, REST APIs, AI-enabled solutions, Docker, Kubernetes, AWS, automated CI/CD pipelines in Agile/Scrum.
+
+2. Python Full Stack & AI Developer — Ernst & Young (EY)
+   - Period: Dec 2022 – Nov 2025
+   - Location: Brazil
+   - Key Focus: Built Python application exploring Retrieval-Augmented Generation (RAG) for question answering over private enterprise documents; document ingestion, chunking, embeddings, semantic retrieval, and LLM integration; large-scale SAP migration projects, IBM DataStage workflows, advanced SQL data processing and validation.
+
+3. Python Full Stack Developer & Systems Engineer — Universidade Estadual de Campinas (UNICAMP)
+   - Period: Apr 2008 – Dec 2022 (14+ years)
+   - Location: Campinas, Brazil
+   - Key Focus: Full-stack web applications using Python (Flask, Django), JavaScript, SQL; database architecture (PostgreSQL, MySQL, Oracle); digital transformation initiatives; Linux server administration; large-scale BI solutions.
+
+## Technical Skills & Proficiencies
+- AI & LLM Systems: Retrieval-Augmented Generation (RAG), Vector Databases (FAISS, Chroma, PGVector), Prompt Engineering, Agentic AI, Semantic Search, Chunking Strategies, LLM Evaluation, AI Orchestration.
+- Backend & Languages: Python (FastAPI, Flask, Django, Uvicorn, AsyncIO), Java (Spring Boot, GoF Patterns), JavaScript (ES6+, Node.js), PHP, C#, Lua, SQL.
+- Databases & Data Integration: PostgreSQL, Oracle, MySQL, SQL Server, IBM DataStage, SAP Migration & Integration, Pentaho, ETL/ELT pipelines, BI & Analytics.
+- Cloud & Infrastructure: Docker, Kubernetes (K8s), Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Jenkins, Linux Administration, Git.
+- Languages: English (CEFR C2 Mastery - Full Professional Proficiency), Portuguese (Native).
+
+## Featured Public GitHub Repositories
+- lab-padroes-projeto-spring-enhanced: Enhanced Design Patterns Lab in Java/Spring Boot with 8+ GoF patterns, caching, DTOs, and comprehensive unit testing.
+- prompts-recipe-python-ebook: AI prompt engineering and multi-LLM workflows to generate and structure technical publications.
+- k8s-projeto1-app-base: Microservice deployment base in cloud-native Kubernetes clusters.
+- reactpython: Decoupled full-stack architecture connecting React frontend with Python REST API.
+- Brazilian_currency_without_augmentation: Machine learning and convolutional neural network (CNN) currency classification in Jupyter Notebook.
